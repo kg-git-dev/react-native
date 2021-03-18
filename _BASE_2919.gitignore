@@ -114,8 +114,3 @@ package-lock.json
 
 #test
 *.[oa]
-HEAD
-
-#change to branch
-#test
-testing
